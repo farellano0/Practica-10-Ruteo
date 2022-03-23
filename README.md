@@ -7,5 +7,6 @@ El  siguiente ejercicio tiene como objetivo mostrar la forma en la que podemos e
 - Instala el paquete “express” desde la línea de comando
 - Instala el paquete “nodemon” desde la línea de comando de forma global (bandera -g) 
 - Crea un nuevo archivo que se llame index.js
-- Escribe el código que se muestra a continuación
+- Escribe el código que se muestra a continuación:
+![Bloque de Código](img/code1.png)
 
