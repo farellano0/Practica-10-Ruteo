@@ -24,6 +24,7 @@ El  siguiente ejercicio tiene como objetivo mostrar la forma en la que podemos e
 - Nota: En mi caso, mi navegador tiene instalado un plugin para formatear JSON, si el tuyo no lo tiene, mostrará la información en formato “raw”.
 
 formato “raw”
+
 ![Bloque de Código4](img/code4.png)
 
 - Ahora agregaremos una tercera ruta, mediante la cual, podemos enviar un “parametro” a nuestro server, utilizando la barra de direcciones del navegador, para ejemplificar, inserta  el siguiente código inmediatamente después de la “segunda ruta” y salva los cambios:
